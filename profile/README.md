@@ -1,3 +1,5 @@
+<picture><source media="(prefers-color-scheme: dark)" srcset="../assets/NS_Logo_Lockup_offwhite_2400px.png"><img alt="No Standing" src="../assets/NS_Logo_Lockup_black_2400px.png" width="360"></picture>
+
 # No Standing International
 
 Brand, product and venture studio.
