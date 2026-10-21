@@ -1,5 +1,13 @@
-# No Standing
+# No Standing International
 
-No Standing builds digital products and services.
+Brand, product and venture studio.
 
-Learn more at [nostanding.io](https://nostanding.io).
+## What lives here
+- **Rook** (rook-brain): the operating brain behind Sohan's AI team.
+- **NASL**: product requirements, design and build programme.
+- **NCHE**: application, practitioner portal and website.
+- **No Standing website** (ns-website): source, delivery and release evidence.
+
+Website: [nostanding.io](https://nostanding.io)
+
+All repositories are private. Work is tracked on the org project board.
